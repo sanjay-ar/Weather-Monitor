@@ -35,12 +35,15 @@ A simple and user-friendly weather application that provides current weather inf
    ```
 2. Navigate to the project directory:
    ```
-   cd weather-app
+   cd zeotap-internship-assignment2
+   
    ```
 3. Setup
 
    ```
-   npm i && npm start
+   npm i 
+
+   npm start 
    
    ```
 
