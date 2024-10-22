@@ -31,7 +31,7 @@ A simple and user-friendly weather application that provides current weather inf
 
 1. Clone the repository:
    ```
-   git clone (https://github.com/sanjay-ar/zeotap-internship-assignment2)
+   git clone https://github.com/sanjay-ar/zeotap-internship-assignment2
    ```
 2. Navigate to the project directory:
    ```
