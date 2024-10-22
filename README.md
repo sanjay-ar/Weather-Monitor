@@ -1,6 +1,11 @@
 # Weather App
 
+## Overview
+
 A simple and user-friendly weather application that provides current weather information and forecasts.
+
+<img width="943" alt="image" src="1.gif">
+
 
 ## Deployed Application
 
