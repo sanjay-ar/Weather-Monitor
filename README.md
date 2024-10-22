@@ -4,7 +4,7 @@
 
 A simple and user-friendly weather application that provides current weather information and forecasts.
 
-<img width="943" alt="image" src="1.gif">
+<img width="943" alt="image" src="11.gif">
 
 
 ## Deployed Application
