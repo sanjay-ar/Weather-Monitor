@@ -37,7 +37,11 @@ A simple and user-friendly weather application that provides current weather inf
    ```
    cd weather-app
    ```
-3. Open `index.html` in your preferred web browser.
+3.Setup
+
+```
+npm i && npm start
+```
 
 ## Usage
 
