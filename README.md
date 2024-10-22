@@ -1,4 +1,5 @@
-# Weather App
+# Weather Monitoring System
+This is a real-time system for processing and analyzing weather data from OpenWeatherMap API.
 
 ## Overview
 
