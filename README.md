@@ -37,11 +37,12 @@ A simple and user-friendly weather application that provides current weather inf
    ```
    cd weather-app
    ```
-3.Setup
+3. Setup
 
-```
-npm i && npm start
-```
+   ```
+   npm i && npm start
+   
+   ```
 
 ## Usage
 
