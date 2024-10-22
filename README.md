@@ -1,7 +1,10 @@
-# zeotap-internship-assignment2
 # Weather App
 
 A simple and user-friendly weather application that provides current weather information and forecasts.
+
+## Deployed Application
+
+[Weather App Live Demo] (https://zeotap-internship-assignment2-598f.vercel.app)
 
 ## Features
 
@@ -22,12 +25,11 @@ A simple and user-friendly weather application that provides current weather inf
 
 1. Clone the repository:
    ```
-   git clone https://github.com/sanjay-ar/zeotap-internship-assignment2
+   git clone https://github.com/yourusername/weather-app.git
    ```
 2. Navigate to the project directory:
    ```
-   cd zeotap-internship-assignment2
-
+   cd weather-app
    ```
 3. Open `index.html` in your preferred web browser.
 
@@ -37,5 +39,7 @@ A simple and user-friendly weather application that provides current weather inf
 2. Press the search button or hit Enter.
 3. View the current weather and forecast for the specified location.
 4. Toggle between Celsius and Fahrenheit using the temperature unit switch.
+
+  
 
 
