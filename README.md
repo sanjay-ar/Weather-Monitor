@@ -54,6 +54,5 @@ A simple and user-friendly weather application that provides current weather inf
 3. View the current weather and forecast for the specified location.
 4. Toggle between Celsius and Fahrenheit using the temperature unit switch.
 
-  
-
+created by: SANJAY A R
 
