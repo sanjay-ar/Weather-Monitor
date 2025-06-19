@@ -46,13 +46,14 @@ A simple and user-friendly weather application that provides current weather inf
    npm start 
    
    ```
+---
 
-## Usage
+### 🚀 Maintained by [Sanjay A R](https://github.com/sanjay-ar)
 
-1. Enter a city name or zip code in the search bar.
-2. Press the search button or hit Enter.
-3. View the current weather and forecast for the specified location.
-4. Toggle between Celsius and Fahrenheit using the temperature unit switch.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://portfolio-ar.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20A%20R-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-ar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay--ar-black?style=flat-square&logo=github)](https://github.com/sanjay-ar)
 
-created by: SANJAY A R
+> 💡 *Like this project? Leave a ⭐ and connect with me!*
+
 
